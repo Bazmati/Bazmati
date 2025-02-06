@@ -38,7 +38,7 @@ Une application web permettant de gérer les formations pour les stagiaires, cli
 **Technologies utilisées** : Symfony, Twig, Bootstrap
 
 ### Hydiachronos
-Application mobile pour la gestion des opérations de nettoyage pour les collectivités.  
+Application de gestion des opérations de nettoyage pour les collectivités.  
 **Technologies utilisées** : Symfony, Twig, Bootstrap
 
 ---
