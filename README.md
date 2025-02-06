@@ -10,7 +10,7 @@ Depuis mes débuts dans le développement, je me spécialise dans la création d
 
 - 🌍 **Localisation** : Laval / Rennes, France  
 - 🖥️ **Portfolio** : En cours de construction  
-- ✉️ **Contactez-moi** : <a href="mailto:b%61%73%69le%6da%6ci&#110;&#64;&#103;%6d%78%2ef%72">basilemalin&#64;gmx.fr</a>  
+- ✉️ **Contactez-moi** : <a href="mailto:b%61%73%69le%6da%6ci&#110;&#64;&#103;%6d%78%2ef%72">email</a>  
 - 🚀 **Actuellement en apprentissage** : Symfony, Android Studio, TailwindCSS  
 - 🧠 **J'apprends aussi** : Swift, Symfony UX  
 - 🤝 **Ouvert aux collaborations** : Projets open-source  
