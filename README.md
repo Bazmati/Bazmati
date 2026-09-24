@@ -43,11 +43,11 @@ Application de gestion des opérations de nettoyage pour les collectivités.
 
 ---
 
-## 🎯 Objectifs 2025
+## 🎯 Objectifs 2026
 - Approfondir mes compétences en DevOps.
 - Contribuer à des projets open-source.
 - Développer mon portfolio professionnel.
 
 ---
 
-Merci d'avoir visité mon profil ! N'hésitez pas à me contacter ou à explorer mes projets sur [mon GitHub](https://github.com/Bazmati).
+Merci d'avoir visité mon profil ! N'hésitez pas à me contacter ou à explorer mes projets sur [mon GitHub](https://github.com/Bazmati) et CV sur [Mon CV](https://bazmati.github.io/basile-malin-cv-2026/).
