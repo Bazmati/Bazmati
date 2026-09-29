@@ -42,7 +42,7 @@ Procédures, guides d'installation et cheat sheets pour techniciens support N1/N
 ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
 
 ### 🧑‍💼 [Gestionnaire d'association](https://github.com/Bazmati/geomonkey-master)
-Application web de gestion de l'association Géomonkey en cours de construction.
+Site vitrine et gestion de l'association Géomonkey .
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white)
 ![Twig](https://img.shields.io/badge/-Twig-39B54A)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
