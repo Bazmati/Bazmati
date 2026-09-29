@@ -33,6 +33,9 @@ Depuis mes débuts dans le développement, je me spécialise dans la création d
 ---
 
 ## 🌱 Projets récents
+### 🔧 Support IT
+📚 [IT Support Toolbox](https://github.com/Bazmati/it-support-toolbox) — procédures et cheat sheets support N1/N2 (Active Directory, GLPI, PowerShell, VMware)
+
 ### Gestionnaire de formation
 Une application web permettant de gérer les formations pour les stagiaires, clients et formateurs.  
 **Technologies utilisées** : Symfony, Twig, Bootstrap
