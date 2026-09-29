@@ -33,16 +33,33 @@ Depuis mes débuts dans le développement, je me spécialise dans la création d
 ---
 
 ## 🌱 Projets récents
-### 🔧 Support IT
-📚 [IT Support Toolbox](https://github.com/Bazmati/it-support-toolbox) — procédures et cheat sheets support N1/N2 (Active Directory, GLPI, PowerShell, VMware)
 
-### Gestionnaire de formation
-Une application web permettant de gérer les formations pour les stagiaires, clients et formateurs.  
-**Technologies utilisées** : Symfony, Twig, Bootstrap
+### 🔧 [IT Support Toolbox](https://github.com/Bazmati/it-support-toolbox)
+Procédures, guides d'installation et cheat sheets pour techniciens support N1/N2.
+![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D6?logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
+![GLPI](https://img.shields.io/badge/-GLPI-000000?logo=glpi&logoColor=white)
+![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
 
-### Hydiachronos
-Application de gestion des opérations de nettoyage pour les collectivités.  
-**Technologies utilisées** : Symfony, Twig, Bootstrap
+### 🧑‍💼 [Gestionnaire de formation](https://github.com/Bazmati/geomonkey-master)
+Application web de gestion des formations pour stagiaires, clients et formateurs.
+![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white)
+![Twig](https://img.shields.io/badge/-Twig-39B54A)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
+### 🖨️ [Générateur de flyers](https://github.com/Bazmati/flyers_generator)
+Générateur de flyers personnalisables directement dans le navigateur.
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+
+### 🔗 [Générateur de QR codes](https://github.com/Bazmati/qr_code_generator)
+Génération de QR codes personnalisés, avec aperçu et téléchargement.
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+
+### 📄 [Mon CV en ligne](https://bazmati.github.io/basile-malin-cv-2026/)
+CV interactif et responsive — hébergé via GitHub Pages.
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ---
 
