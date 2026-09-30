@@ -1,6 +1,6 @@
 # Hi, My name is Basile Malin 👋
 
-## Développeur Fullstack Junior passionné par le web et les technologies modernes !
+## Concepteur-Développeur d'applications / administrateur systèmes & réseaux  passionné par le web et les technologies modernes !
 
 Je suis un développeur curieux et motivé, toujours prêt à relever de nouveaux défis. Ma philosophie est simple : chaque problème a une solution, et cette solution réside souvent dans la collaboration et le partage. J'adore apprendre, expérimenter de nouvelles technologies, et j'aimerai travailler en équipe pour concevoir des applications innovantes et performantes.
 
