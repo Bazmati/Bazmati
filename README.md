@@ -34,6 +34,13 @@ Depuis mes débuts dans le développement, je me spécialise dans la création d
 
 ## 🌱 Projets récents
 
+### 🖥️ [Admin Procedures](https://github.com/Bazmati/admin-procedures)
+Procédures d'administration systèmes & réseaux : Proxmox VE, Hyper-V, Active Directory, DNS/DHCP, PowerShell.
+![Proxmox](https://img.shields.io/badge/-Proxmox%20VE-E57000)
+![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D6?logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+
 ### 🔧 [IT Support Toolbox](https://github.com/Bazmati/it-support-toolbox)
 Procédures, guides d'installation et cheat sheets pour techniciens support N1/N2.
 ![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D6?logo=windows&logoColor=white)
