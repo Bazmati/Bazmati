@@ -24,6 +24,7 @@ Depuis mes débuts dans le développement, je me spécialise dans la création d
 - **Back-end** : Symfony (PHP), MySQL
 - **Front-end** : JavaScript, Twig, Bootstrap, TailwindCSS
 - **Mobile** : Android Studio (Java), Swift
+- **Administration systèmes** : Proxmox VE, Active Directory, Hyper-V, PowerShell/Bash, Linux 
 
 ### Outils :
 <p align="left" dir="auto">
