@@ -56,8 +56,8 @@ Plateforme complète **en production** sur [geomonkey.fr](https://www.geomonkey.
 ![Stripe](https://img.shields.io/badge/-Stripe-635AFF?logo=stripe&logoColor=white)
 ![Production](https://img.shields.io/badge/-en_production-brightgreen)
 
-### ✍️ Mon blog statique — générateur PHP maison
-Blog de développeur construit de zéro en **PHP pur, sans framework ni dépendance** : générateur statique, Markdown, conversion WebP, SEO (JSON-LD, sitemap, RSS), hébergé sur mon serveur Proxmox. *(repo en cours de publication)*
+### ✍️ [Mon blog — générateur statique en PHP pur](https://github.com/Bazmati/blog-statique-php)
+Ce blog même : construit de zéro en **PHP pur, sans framework ni dépendance** — générateur statique, Markdown, conversion WebP, SEO (JSON-LD, sitemap, RSS), pagination, burger mobile sans JS. Zéro cookie, zéro tracker.
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![SEO](https://img.shields.io/badge/-SEO-047857)
 ![Sans dépendance](https://img.shields.io/badge/-z%C3%A9ro_d%C3%A9pendance-blue)
@@ -83,52 +83,3 @@ Admin sys et support font partie de mon quotidien : hyperviseur **Proxmox VE**, 
 ---
 
 *Ce profil évolue au fil de mes projets — le code parle mieux que les buzzwords.*
-
----
-
-## 🌱 Projets récents
-
-### 🖥️ [Admin Procedures](https://github.com/Bazmati/admin-procedures)
-Procédures d'administration systèmes & réseaux : Proxmox VE, Hyper-V, Active Directory, DNS/DHCP, PowerShell.
-![Proxmox](https://img.shields.io/badge/-Proxmox%20VE-E57000)
-![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D6?logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-
-### 🔧 [IT Support Toolbox](https://github.com/Bazmati/it-support-toolbox)
-Procédures, guides d'installation et cheat sheets pour techniciens support N1/N2.
-![Active Directory](https://img.shields.io/badge/-Active%20Directory-0078D6?logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?logo=powershell&logoColor=white)
-![GLPI](https://img.shields.io/badge/-GLPI-000000?logo=glpi&logoColor=white)
-![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white)
-
-### 🧑‍💼 [Gestionnaire d'association](https://github.com/Bazmati/geomonkey-master)
-Site vitrine et gestion de l'association Géomonkey .
-![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white)
-![Twig](https://img.shields.io/badge/-Twig-39B54A)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-
-### 🖨️ [Générateur de flyers](https://github.com/Bazmati/flyers_generator)
-Générateur de flyers personnalisables directement dans le navigateur.
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-
-### 🔗 [Générateur de QR codes](https://github.com/Bazmati/qr_code_generator)
-Génération de QR codes personnalisés, avec aperçu et téléchargement.
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-
-### 📄 [Mon CV en ligne](https://bazmati.github.io/basile-malin-cv-2026/)
-CV interactif et responsive — hébergé via GitHub Pages.
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-
----
-
-## 🎯 Objectifs 2026
-- Approfondir mes compétences en DevOps.
-- Contribuer à des projets open-source.
-- Développer mon portfolio professionnel.
-
----
-
-Merci d'avoir visité mon profil ! N'hésitez pas à me contacter ou à explorer mes projets sur [mon GitHub](https://github.com/Bazmati) et CV sur [Mon CV](https://bazmati.github.io/basile-malin-cv-2026/).
