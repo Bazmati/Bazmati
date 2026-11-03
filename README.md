@@ -15,7 +15,7 @@ Actuellement basé entre Laval et Rennes (France), je recherche un poste de dév
 - 🌍 **Localisation** : Laval / Rennes, France
 - 💼 **Recherche** : poste développeur web PHP/Symfony · PHP/WordPress (CDI, proximité)
 - 🖥️ **CV en ligne** : [bazmati.github.io/basile-malin-cv-2026](https://bazmati.github.io/basile-malin-cv-2026/)
-- ✍️ **Blog** : en ligne très prochainement — retour d'expérience, PHP, reconversion
+- ✍️ **Blog** : [basile-malin.fr](https://basile-malin.fr) — retour d'expérience, PHP, reconversion, auto-hébergement
 - ✉️ **Contact** : <a href="mailto:basilemalin@gmx.fr">basilemalin@gmx.fr</a>
 - 🤝 **Ouvert aux collaborations** : projets open-source PHP
 - ⚡ **Fun fact** : je bricole toujours de la mécanique et de la chaudronnerie — l'atelier ne m'a pas quitté
