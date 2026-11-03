@@ -57,7 +57,7 @@ Plateforme complète **en production** sur [geomonkey.fr](https://www.geomonkey.
 ![Production](https://img.shields.io/badge/-en_production-brightgreen)
 
 ### ✍️ [Mon blog — générateur statique en PHP pur](https://github.com/Bazmati/blog-statique-php)
-Ce blog même : construit de zéro en **PHP pur, sans framework ni dépendance** — générateur statique, Markdown, conversion WebP, SEO (JSON-LD, sitemap, RSS), pagination, burger mobile sans JS. Zéro cookie, zéro tracker.
+En ligne sur **[basile-malin.fr](https://basile-malin.fr)** — construit de zéro en **PHP pur, sans framework ni dépendance**
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![SEO](https://img.shields.io/badge/-SEO-047857)
 ![Sans dépendance](https://img.shields.io/badge/-z%C3%A9ro_d%C3%A9pendance-blue)
