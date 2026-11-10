@@ -16,6 +16,7 @@ Actuellement basé entre Laval et Rennes (France), je recherche un poste de dév
 - 💼 **Recherche** : poste développeur web PHP/Symfony · PHP/WordPress (CDI, proximité)
 - 🖥️ **CV en ligne** : [bazmati.github.io/basile-malin-cv-2026](https://bazmati.github.io/basile-malin-cv-2026/)
 - ✍️ **Blog** : [basile-malin.fr](https://basile-malin.fr) — retour d'expérience, PHP, reconversion, auto-hébergement
+- 🐒 **Projet principal** : [Géomonkey](https://github.com/Bazmati/geomonkey-master) — plateforme web pour associations (Symfony 8)
 - ✉️ **Contact** : <a href="mailto:basilemalin@gmx.fr">basilemalin@gmx.fr</a>
 - 🤝 **Ouvert aux collaborations** : projets open-source PHP
 - ⚡ **Fun fact** : je bricole toujours de la mécanique et de la chaudronnerie — l'atelier ne m'a pas quitté
@@ -49,12 +50,12 @@ Actuellement basé entre Laval et Rennes (France), je recherche un poste de dév
 ## 🌟 Projets à la une
 
 ### 🧑‍💼 [Géomonkey — plateforme web pour associations](https://github.com/Bazmati/geomonkey-master)
-Plateforme complète **en production** sur [geomonkey.fr](https://www.geomonkey.fr) : gestion des adhérents, adhésions Stripe, événements, galerie photos, conformité RGPD.
+Plateforme complète pour une association réelle : adhérents, adhésions Stripe, événements, galerie photos, RGPD. **Mise en production fin novembre 2026** sur [geomonkey.fr](https://www.geomonkey.fr).
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white)
 ![PHP 8.4](https://img.shields.io/badge/-PHP_8.4-777BB4?logo=php&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Stripe](https://img.shields.io/badge/-Stripe-635AFF?logo=stripe&logoColor=white)
-![Production](https://img.shields.io/badge/-en_production-brightgreen)
+![Production](https://img.shields.io/badge/-prod_nov._2026-yellow)
 
 ### ✍️ [Mon blog — générateur statique en PHP pur](https://github.com/Bazmati/blog-statique-php)
 En ligne sur **[basile-malin.fr](https://basile-malin.fr)** — construit de zéro en **PHP pur, sans framework ni dépendance**
@@ -72,7 +73,7 @@ Génération de QR codes (URLs, textes) avec aperçu et export image — utilis�
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 
 ### 🖨️ [Générateur de flyers](https://github.com/Bazmati/flyers_generator)
-Création et export d'affiches personnalisées pour événements, directement dans le navigateur. Intégration prévue dans Géomonkey V2.
+Création et export d'affiches personnalisées pour événements, directement dans le navigateur. Intégration prévue dans Géomonkey V3.
 
 ---
 
